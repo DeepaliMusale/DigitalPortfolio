@@ -35,5 +35,12 @@
   "main": "index.js",
   "author": "Deepali",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepaliMusale/DigitalPortfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DeepaliMusale/DigitalPortfolio/issues"
+  }
 }
